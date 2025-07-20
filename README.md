@@ -39,7 +39,7 @@
   <img src="screenshots/outfits.jpg" alt="Outfits" width="180"/>
   <img src="screenshots/match_outfits.jpg" alt="Match Outfits" width="180"/>
   <img src="screenshots/saved_capsules.jpg" alt="Saved Capsules" width="180"/>
-  <img src="screenshots/profile.jpg" alt="Profile" width="180"/>
+  
 </p>
 
 <p align="center">
@@ -51,7 +51,7 @@
   <b>Аутфиты / Outfits</b> &nbsp; | &nbsp;
   <b>Подбор аутфита / Match Outfits</b> &nbsp; | &nbsp;
   <b>Сохранённые капсулы / Saved Capsules</b> &nbsp; | &nbsp;
-  <b>Профиль / Profile</b>
+  
 </p>
 
 ---
